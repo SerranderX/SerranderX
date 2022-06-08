@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Diaz</h1>
-<h3 align="center">Fullstack developer and DevOps Student. 🌟</h3>
+<h3 align="center">Fullstack developer and DevOps Student. 🌌</h3>
 
 <br>
 

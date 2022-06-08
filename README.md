@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **felipediazalburquenque@gmail.com**
 
-- ⚡ Fun fact :- Game and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Game, Read and Music🎵 are my reasons to live.
 
 <br>
 

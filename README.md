@@ -81,6 +81,15 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
     </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/076252b29c9667711f58c46087d2bf82e6facc9f/assets/icons/postgresql.svg" alt="postresql" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/076252b29c9667711f58c46087d2bf82e6facc9f/assets/icons/oracle.svg" alt="oraclesql" width="40" height="40" /> 
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/076252b29c9667711f58c46087d2bf82e6facc9f/assets/icons/mongo.svg" alt="mongodb" width="40" height="40" /> 
+    </a> 
     </a>  
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 

@@ -54,6 +54,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
     </a> 
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/01baf446f34bebe0761cfd9df9fcc44ce559fa18/assets/icons/nextjs.svg" alt="next" width="40" height="40" /> 
+    </a> 
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/16662dbaf4c10564d2a4880a00c4595e0bbffcd7/assets/icons/angular.svg" alt="angular" width="40" height="40" /> 
     </a>

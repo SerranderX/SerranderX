@@ -112,6 +112,12 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> 
     </a> 
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/4fd57587af34550b92b9437bc025ab0050f67f2f/assets/icons/docker.svg" alt="docker" width="40" height="40" /> 
+    </a> 
+    <a href="https://kubernetes.io/es/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/4fd57587af34550b92b9437bc025ab0050f67f2f/assets/icons/kubernetes.svg" alt="kubernetes" width="40" height="40" /> 
+    </a> 
 </p>
 <br>
 

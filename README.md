@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felipe Diaz</h1>
-<h3 align="center">Fullstack developer and DevOps Student. 🌌</h3>
+<h1 align="center">Hi 👋, I'm Felipe Díaz</h1>
+<h3 align="center">Fullstack developer engineer and DevOps Student. 🌌</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning Web Development and other development tools
+- 🌱 I’m currently learning Web Development and another development tools
 
 - 📫 How to reach me **felipediazalburquenque@gmail.com**
 
@@ -80,6 +80,15 @@
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/076252b29c9667711f58c46087d2bf82e6facc9f/assets/icons/postgresql.svg" alt="postresql" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/076252b29c9667711f58c46087d2bf82e6facc9f/assets/icons/oracle.svg" alt="oraclesql" width="40" height="40" /> 
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/SerranderX/SerranderX/076252b29c9667711f58c46087d2bf82e6facc9f/assets/icons/mongo.svg" alt="mongodb" width="40" height="40" /> 
     </a> 
     </a>  
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 

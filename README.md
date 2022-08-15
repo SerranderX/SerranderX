@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact :- Game, Read and Music🎵 are my reasons to live.
 
-- 💻 Portfolio page - https://serranderx.com
+- 💻 Portfolio page - **https://serranderx.com**
 
 <br>
 
